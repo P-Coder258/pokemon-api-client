@@ -179,16 +179,4 @@ names = ["pikachu"]
 
 ---
 
-## 10. Still Having Issues?
-
-If none of the above fixes resolve the error:
-
-- Copy the full error message  
-- Note the Pokémon names you used  
-- Describe the steps you took  
-
-Provide those details to your support/engineering contact or file an issue on GitHub.
-
----
-
 ## End of Troubleshooting Guide
