@@ -1,7 +1,6 @@
 # Pokémon API Client
 
 A simple Python script that retrieves data from the public PokéAPI, handles network and API errors gracefully, and saves results to a CSV file.  
-This project demonstrates real-world skills useful for Technical Support Engineering and Implementation roles, including API integration, error handling, automation, and basic data storage.
 
 ---
 
