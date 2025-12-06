@@ -5,7 +5,7 @@ This project demonstrates real-world skills useful for Technical Support Enginee
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fetches Pokémon data from the PokéAPI using HTTP GET requests  
 - Handles common errors:
