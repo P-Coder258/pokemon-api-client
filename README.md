@@ -16,12 +16,11 @@ This project demonstrates real-world skills useful for Technical Support Enginee
   - Invalid JSON responses  
 - Extracts and stores relevant fields (name, height, weight, base experience)  
 - Saves results into a structured CSV file  
-- Clean, reusable functions for easy extension  
-- Uses Git best practices: branching, feature development, and merging  
+- Clean, reusable functions for easy extension   
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 Sample content saved to `pokemon_data.csv`:
 
